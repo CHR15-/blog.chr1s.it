@@ -21,7 +21,7 @@ As human beings, I feel we naturally look for advice, guidance or reassurance wh
 * Could I be happier?
 * Am I difficult?
 
-I've either been asked these questions or have pondered them myself over the last year. If we're lucky, these questions usually end up with you and a companion putting the world to rights and we both come away with a new, (hopefully) agreed view on the world. Nice, problem solved! No, not quite. Many people find it beyond tough to think about these questions/themes, let alone talk about them. 
+I've either been asked these questions or have pondered them myself over the last year. If we're lucky, these questions usually end up with you and a companion putting the world to rights and you both come away with a new, (hopefully) agreed view on the world. Nice, problem solved! No, not quite. Many people find it beyond tough to think about these questions/themes, let alone talk about them. 
 
 This can be for various reasons. Perhaps you struggle to trust people? Perhaps you are in a dynamic where this can't happen with the person who **should** give you guidance? Perhaps you don't have the confidence? Perhaps you are introverted? Perhaps you just don't know how to approach the problem and you are boxed in with your thoughts to fill the void... 
 
