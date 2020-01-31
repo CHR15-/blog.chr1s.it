@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: ``,
+    title: `T H O U G H T S`,
     author: `Chris Evans`,
     description: `Ramblings of yet ANOTHER engineer`,
     siteUrl: `https://chr1s.it/`,
@@ -60,10 +60,10 @@ module.exports = {
         name: `Gatsby Starter Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        background_color: `#363c48`,
+        theme_color: `#ffa7c4`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/text-bg.jpg`,
       },
     },
     `gatsby-plugin-react-helmet`,
